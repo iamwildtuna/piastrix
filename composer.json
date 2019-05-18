@@ -1,0 +1,29 @@
+{
+  "name": "wildtuna/piastrix",
+  "description": "Piastrix PHP SDK",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/iamwildtuna/piastrix/issues",
+    "source": "https://github.com/iamwildtuna/piastrix"
+  },
+  "authors": [
+    {
+      "name": "Nikolay Lapay",
+      "email": "nl@wildtuna.pro",
+      "homepage": "http://wildtuna.pro",
+      "role": "Creator"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "6.2.*",
+    "symfony/yaml": "~3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "WildTuna\\Piastrix\\": "src/"
+    }
+  }
+}

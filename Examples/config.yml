@@ -1,0 +1,41 @@
+auth:
+  host: https://core.piastrix.com
+  shop_id: Shop Id
+  secret_key: Secret key
+
+available_payment_systems:
+  in:
+    - card_rub
+    - card_uah
+    - qiwi_rub
+    - qiwi_usd
+    - qiwi_eur
+    - yamoney_rub
+    - payeer_rub
+    - payeer_usd
+    - payeer_eur
+    - perfectmoney_usd
+    - perfectmoney_eur
+    - beeline_rub
+    - mts_rub
+    - megafon_rub
+    - tele2_rub
+    - terminal_rub
+    - alfaclick_rub
+  out:
+    - card_rub
+    - card_uah
+    - card_privat_uah
+    - qiwi_rub
+    - qiwi_usd
+    - qiwi_eur
+    - yamoney_rub
+    - payeer_rub
+    - payeer_usd
+    - payeer_eur
+    - beeline_rub
+    - mts_rub
+    - megafon_rub
+    - tele2_rub
+    - webmoney_rub
+    - webmoney_usd
