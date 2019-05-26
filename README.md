@@ -4,7 +4,9 @@
 
 # Piastrix
 PHP SDK для интеграции с платежным сервисом [Piastrix](https://piastrix.com)  
-[Документация API Piastrix](https://piastrix.docs.apiary.io/#introduction/ptx-api)
+[Документация API Piastrix](https://piastrix.docs.apiary.io/#introduction/ptx-api)    
+
+Посмотреть все проекты или поддержать автора можно [тут](https://lapay.group/opensource).  
 
 # Установка
 Для установки можно использовать менеджер пакетов Composer
